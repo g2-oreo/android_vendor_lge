@@ -229,4 +229,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/lge/hammerhead/proprietary/xbin/wlutil:system/xbin/wlutil
+    vendor/lge/hammerhead/proprietary/xbin/wlutil:system/xbin/wlutil \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libaptX_encoder.so:system/vendor/lib/libaptX_encoder.so \
+    vendor/lge/hammerhead/proprietary/vendor/lib/libaptXHD_encoder.so:system/vendor/lib/libaptXHD_encoder.so \
